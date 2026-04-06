@@ -135,7 +135,7 @@
             figure
               img(src='@/assets/curso/tema5/7.png', alt='', style="width: 390px").m-auto
           .col-md-8.mb-4.mb-md-0
-            p entorno en el que las personas establecen vínculos orientados al logro de objetivos comunes, donde la comunicación efectiva, el trabajo en equipo y el respeto mutuo son determinantes para el desempeño y la productividad:
+            p Entorno en el que las personas establecen vínculos orientados al logro de objetivos comunes, donde la comunicación efectiva, el trabajo en equipo y el respeto mutuo son determinantes para el desempeño y la productividad:
 
 
             ul.lista-ul--color

@@ -256,8 +256,8 @@
 
 
     separador
-    #t_4_3.titulo-segundo.color-acento-contenido
-      h2 4.3 Barreras de la comunicación
+    #t_4_4.titulo-segundo.color-acento-contenido
+      h2 4.4 Estrategias para mejorar la comunicación interpersonal
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
       .bloque-texto-g__img(

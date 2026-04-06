@@ -63,10 +63,6 @@
         
     p.mt-4 Para comprender mejor el proceso de desarrollo personal y autoconocimiento, en la tabla 1 se presentan algunos de los elementos fundamentales que intervienen en este proceso. El autoconocimiento permite reconocer aspectos internos que influyen en la manera en que las personas piensan, sienten y actúan en diferentes contextos de la vida cotidiana, y cuya comprensión resulta clave para el fortalecimiento del desarrollo personal y las relaciones interpersonales.
 
-    .titulo-sexto.color-acento-contenido.mb-3.mt-4
-      h5 Tabla 1.
-      span Elementos del desarrollo personal y autoconocimiento 
-
     .row.justify-content-center
       .col-lg-12
         .titulo-sexto.color-acento-contenido.mb-3.mt-4
