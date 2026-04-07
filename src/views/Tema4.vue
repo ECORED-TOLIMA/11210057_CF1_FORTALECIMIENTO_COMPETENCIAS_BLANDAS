@@ -170,9 +170,7 @@
     #t_4_2.titulo-segundo.color-acento-contenido
       h2 4.2 Características de la comunicación asertiva
 
-    p La comunicación asertiva se refiere a la capacidad de expresar ideas, opiniones, sentimientos y necesidades de manera clara, directa y respetuosa, manteniendo un equilibrio entre la defensa de los propios derechos y el respeto por los derechos de los demás. Este tipo de comunicación permite a las personas manifestar lo que piensan o sienten sin recurrir a actitudes agresivas o pasivas, favoreciendo un diálogo abierto y constructivo. La comunicación asertiva es considerada una habilidad fundamental dentro del desarrollo de las competencias blandas, ya que contribuye a mejorar la interacción social y la convivencia.
-
-    .row.bg-01
+    .row.bg-01.m-30
       .col-12
         .p-5
           .row.align-items-center

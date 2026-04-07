@@ -21,12 +21,6 @@
 
         p.mt-3 El autoconocimiento es uno de los pilares fundamentales del desarrollo personal, ya que permite a las personas comprender quiénes son, cuáles son sus valores, intereses, emociones y formas de actuar frente a diferentes situaciones. Conocerse a sí mismo facilita la identificación de fortalezas que pueden potenciarse y de aspectos que requieren fortalecimiento para mejorar la interacción con los demás. Cuando una persona desarrolla un mayor nivel de autoconocimiento, logra comprender mejor sus reacciones emocionales, sus motivaciones y sus metas, lo que contribuye a una mayor claridad en la toma de decisiones.
 
-    .row.justify-content-center.mt-4
-      .col-lg-10
-        .row.align-items-center
-          .col-lg-12
-            .cajon.color2.p-4
-              p El autoconocimiento es uno de los pilares fundamentales del desarrollo personal, ya que permite a las personas comprender quiénes son, cuáles son sus valores, intereses, emociones y formas de actuar frente a diferentes situaciones. Conocerse a sí mismo facilita la identificación de fortalezas que pueden potenciarse y de aspectos que requieren fortalecimiento para mejorar la interacción con los demás. Cuando una persona desarrolla un mayor nivel de autoconocimiento, logra comprender mejor sus reacciones emocionales, sus motivaciones y sus metas, lo que contribuye a una mayor claridad en la toma de decisiones.  
 
     .row.align-items-center.mt-4
       .col-lg-8
@@ -67,15 +61,15 @@
       .col-lg-12
         .titulo-sexto.color-acento-contenido.mb-3.mt-4
           h5 Tabla 1.
-          span Indicadores financieros de evaluación de proyectos
+          span Elementos del desarrollo personal y autoconocimiento
 
         .tabla-a.color-acento-contenido
           table
             thead(style="background-color: #A0F7FE")
               tr
-                th(style="width: 300px;") Indicador
-                th ¿Qué mide? 
-                th ¿Qué significa si es favorable?
+                th(style="width: 300px;") Elemento
+                th Descripción
+                th Importancia en el desarrollo personal
             tbody
               tr(style="background-color: #F6F6F6")
                 th.text-start Fortalezas personales
