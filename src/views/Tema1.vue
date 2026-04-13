@@ -49,7 +49,7 @@
           .tarjeta.clr-paleYellow.p-4(titulo="La autoestima")
             p A través de procesos de reflexión, aprendizaje y práctica, las personas fortalecen la confianza en sí mismas y consolidan una imagen personal más sólida que les permite enfrentar los desafíos cotidianos con mayor seguridad.
 
-          .tarjeta.clr-paleYellow.p-4(titulo="Resoluciones")
+          .tarjeta.clr-paleYellow.p-4(titulo="La actitud proactiva")
             p El desarrollo personal favorece una disposición activa frente a los retos de la vida. Las personas que trabajan en su crecimiento asumen los desafíos como oportunidades y participan de manera más efectiva en espacios de convivencia y colaboración.
 
           .tarjeta.clr-paleYellow.p-4(titulo="El bienestar colectivo")
@@ -351,7 +351,7 @@
     .row.justify-content-center.mt-4
       .col-lg-12
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg-1")
-          .tarjeta.clr--pink02.p-4(titulo="Disposición")
+          .tarjeta.clr--pink02.p-4(titulo="Las creencias limitantes")
             .row.align-items-center
               .col-lg-6
                 p Son aquellas ideas que restringen la capacidad de una persona para avanzar, aprender o asumir nuevos retos. Este tipo de creencias suele estar asociado a pensamientos negativos sobre las propias capacidades, como considerar que no se tiene el talento suficiente para realizar una tarea o que no es posible lograr determinados objetivos. Cuando estas ideas se mantienen sin cuestionamiento, pueden afectar la confianza personal, disminuir la motivación y generar temor frente a situaciones nuevas o desafiantes.
@@ -360,7 +360,7 @@
                 figure(data-aos="fade-right")
                   img(src='@/assets/curso/tema1/23.png', alt='', style="width: 100%")
     
-          div(titulo="Dimensión")
+          div(titulo="Las creencias potenciadoras")
             .row.align-items-center
               .col-lg-6
                 p Son aquellas que impulsan el crecimiento personal y favorecen una actitud positiva frente al aprendizaje y el cambio. Este tipo de creencias permite que las personas reconozcan sus capacidades, confíen en su potencial y asuman los retos como oportunidades para mejorar. Al fortalecer este tipo de pensamientos, se promueve una mentalidad orientada al desarrollo, en la que los errores se interpretan como experiencias de aprendizaje y no como fracasos definitivos.
