@@ -146,7 +146,7 @@
 
     separador
     #t_3_2.titulo-segundo.color-acento-contenido
-      h2 3.2 Tipos de comunicación: intra, inter y transpersonal
+      h2 3.2 Tipos de comunicación: intrapersonal, interpersonal y transpersonal 
 
     p La comunicación puede manifestarse de diferentes maneras dependiendo del contexto en el que se desarrolla y de las personas que participan en el proceso comunicativo. En este sentido, se pueden identificar distintos tipos de comunicación que permiten comprender mejor cómo los individuos intercambian información, pensamientos y emociones. Entre estos tipos se destacan la comunicación intrapersonal, interpersonal y transpersonal, las cuales influyen en la manera en que las personas interpretan la realidad, toman decisiones y se relacionan con su entorno.
 
