@@ -246,7 +246,7 @@
             .row.justify-content-center.mt-4.text-white.bg-base
               .tarjeta.h-100
                 TarjetaAudio.color-acento-botones.bg-base.mb-3(
-                texto="Pódcast Instruccional"
+                texto="Reconocimiento y comprensión de las emociones"
                 :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
               )
 
