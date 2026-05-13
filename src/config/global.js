@@ -100,7 +100,8 @@ export default {
           },
           {
             numero: '3.2',
-            titulo: 'Tipos de comunicación: intra, inter y transpersonal',
+            titulo:
+              'Tipos de comunicación: intrapersonal, interpersonal y transpersonal',
             hash: 't_3_2',
           },
           {
